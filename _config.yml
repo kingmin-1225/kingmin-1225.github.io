@@ -20,7 +20,7 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "Dev Insight"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "King min"
+name                     : "King Min"
 description              : "My Dev log"
 url                      : "https://kingmin-1225.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -113,11 +113,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "King Min"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Always learning. AI & Software Developer wannabe."
+  location         : "Republic of Korea"
+  email            : "kingmin1225@hanyang.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
