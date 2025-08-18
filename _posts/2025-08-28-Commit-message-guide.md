@@ -2,7 +2,7 @@
 layout: single
 title: "Commit message guide"
 date: 2025-08-18
-categories: [Data Structure]
+categories: [Git]
 toc: true      # 목차 표시 여부
 ---
 
