@@ -4,6 +4,8 @@ title: "좋은 검증 데이터"
 date: 2025-08-20
 categories: [ML]
 ---
+원저자: Rachel Thomas, 원문 출처: [Link](https://www.fast.ai/posts/2017-11-13-validation-sets.html)
+
 
 지금까지 해왔던 머신러닝 프로젝트들(타이타닉 생존자 예측, 손글씨 분류, 더 나은 LLM출력값 예측 등)에서 항상 scikit-learn 라이브러리의 `train_test_split` 메소드를 활용하여 훈련 데이터와 검증 데이터를 분리했음. 하지만 모든 상황에서 무작위 추출 방법으로 검증 데이터를 분리할 수는 없음.
 
