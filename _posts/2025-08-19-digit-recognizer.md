@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Digit Recognizer
+title: "Digit Recognizer"
 date: 2025-08-19
 categories: [Kaggle]
 toc: true
@@ -13,7 +13,7 @@ toc: true
 
 ## CNN(Convolutional Neural Network)
 이미지의 특정 패턴(객체의 모서리, 선, 질감 등)들을 통해 서로다른 것들을 구분해내는 사람의 시신경 구조를 본떠 만들어짐
-![CNN_Process](mnist-tensorflow_files/CNN_process.jpg)
+![CNN_Process](https://kr.mathworks.com/discovery/convolutional-neural-network/_jcr_content/mainParsys/band_copy_copy/mainParsys/lockedsubnav/mainParsys/columns/a32c7d5d-8012-4de1-bc76-8bd092f97db8/image_2109075398_cop.adapt.full.medium.jpg/1745556791953.jpg)
 ### 구성 요소
 - **Convolutional Layer**: 이미지에 작은 필터(kerner)을 적용하여 특징을 추출해냄
   - 커널과 같은 크기의 이미지 부분공간의 행렬곱을 통해서 특징(얼마나 닮았는지)을 추출해냄
@@ -277,7 +277,7 @@ plt.show()
 
 
     
-![png](mnist-tensorflow_files/mnist-tensorflow_7_0.png)
+![png](https://www.kaggleusercontent.com/kf/256777919/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..85ooq6NztVgbgfG74MDEwA.BYlQsTxmmWb-upuBBh3S6ErKQL3s7MpPns8k_d1hUCNPjnnMucVFmjJ7pl6Or-r_lZAk6rQVo_YwsyvRdzw97zJI4LWoiKwRecOiOCUfxHp4IhfUEa3ckpcgcRFW9JxaG32Wb1g8zUhhykNbAhBl9WgErE5MNQbMlIGy1JgWY-EC4v_3WEQ_UNBdooF-mVznF5mbvhM8SANjCvj0ciVGhGc1iTWu6_78vzg6aJkN9Jzr4K95x62QTKYNPaohQP6FWBvgH_UjQn1fESOg0OMQweHY6XHG-l9ma9R38XLjSL3FykEWX6vZn06dnos1WpCwsRnuWBMeIz9zgJauPSkGaCRctabaQnDBF-7P6j0UrdYDykFHKzre6Mc-V-6SpFnCoozLApl3IyHTKFKlLnAgo76u9CJN0TcEd6wvd7S5Pc-GNDE8AdFp4niPULyFYbnFqu7QGRw_B6gvPnZcsuiBu3mApNHxBEkbqvksp5QEl4292DnAYdnGB6w2GLZyzWk5NMPryxM_AGgZ52XkdzmJuzQWAop4hHvvQPZbFOvJnSFlojNshEQf9gtAaPz2fClo0mxGgY0yhtZbUGr397f_uFLSnP3hXPbJZEIEdS9QGDBQkhi9KQ8ZWVvml5kGbOf6g4ZZooqKG8dBfSu79ESatA.ryMXD5WtyrbH_orJpLsvGA/__results___files/__results___7_0.png)
     
 
 
